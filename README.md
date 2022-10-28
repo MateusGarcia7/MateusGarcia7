@@ -1,8 +1,2 @@
-✌🏻 Hola que tal ?  🤗 
-Me llamo Mateus pero puedes decirme Matteo 😎 
-soy de colombia  Y actualmente estudio programcion web full-stack y ciencias de la computacion 💻
-tengo conocimientos en ( Html, Css, JavaScript, React y Node js)
-me apasiona la tecnologia mas la parte del software y me encanta saber como funciona,
-me considero una persona sociable y amistosa 🙋🏼‍♂️ Y me gusta investigar 🧐 sobre temas que no conozco y aprenderlos,
-encantado de conocerte 
-Hablame —> luismateusgarcia7@gmail.com 
+✌🏻 Hello, how are you? 🤗 
+My name is Matthew 😎 I'm from Colombia And I'm currently studying full-stack web programming and computer science 💻 I have knowledge in (Html, Css, JavaScript, React and Node js) I'm passionate about technology plus the software part and I love knowing how it works, I consider myself a sociable and friendly person 🙋🏼‍♂️ And I like to investigate 🧐 on topics that I don't know and learn about them, nice to meet you Talk to me —> luismateusgarcia7@gmail.com 
