@@ -1,4 +1,4 @@
-✌🏻 Hola que tal ? Ps mira bienvenido 🤗 
+✌🏻 Hola que tal ?  🤗 
 Me llamo Mateus pero puedes decirme Matteo 😎 
 soy de colombia  Y actualmente estudio programcion web full-stack y ciencias de la computacion 💻
 tengo conocimientos en ( Html, Css, JavaScript, React y Node js)
